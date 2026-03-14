@@ -13,6 +13,7 @@ dependencies = [
     "langchain-openai>=1.1.10",
     "langchain-text-splitters>=1.1.1",
     "pypdf>=6.7.5",
+    "pypdf2>=3.0.1",
     "python-dotenv>=1.2.2",
     "streamlit>=1.55.0",
     "tiktoken>=0.12.0",
