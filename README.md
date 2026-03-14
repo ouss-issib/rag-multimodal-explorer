@@ -61,7 +61,7 @@ L'interface vous permettra de poser des questions en langage naturel sur vos doc
 --- 
 | Interface Chatbot UI |
 |---|
-| ![](./captures/chatbot.png) | 
+| ![](./captures/chabot.png) | 
 
 ---
 
